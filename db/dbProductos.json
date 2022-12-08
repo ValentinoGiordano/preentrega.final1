@@ -1,0 +1,34 @@
+[
+    {
+      "title": "Mouse",
+      "price": "700",
+      "description": "Max DPI 6000",
+      "thumbnail": "https://dummyimage.com/250/000/555",
+      "stock": "9",
+      "id": 1
+    },
+    {
+      "title": "Keyboard",
+      "price": "1000",
+      "description": "Mechanic keyboard",
+      "thumbnail": "https://dummyimage.com/250/000/fff",
+      "stock": "6",
+      "id": 2
+    },
+    {
+      "title": "Headphones",
+      "price": "600",
+      "description": "Good sound quality",
+      "thumbnail": "https://dummyimage.com/250/000/fff",
+      "stock": "5",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "title": "Speakers",
+      "price": "450",
+      "description": "A pair of good speakers",
+      "thumbnail": "https://dummyimage.com/250/000/555",
+      "stock": "8"
+    }
+  ]

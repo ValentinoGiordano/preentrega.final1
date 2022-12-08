@@ -1,0 +1,41 @@
+[
+    {
+      "id": 1,
+      "timestamp": 1646028665583,
+      "products": []
+    },
+    {
+      "id": 2,
+      "timestamp": 1646028665583,
+      "products": []
+    },
+    {
+      "id": 3,
+      "timestamp": 1646028665583,
+      "products": []
+    },
+    {
+      "id": 111990,
+      "timestamp": 1670473648469,
+      "creationDate": "8/9/2022",
+      "usuario": "Marto3",
+      "products": [
+        {
+            "title": "Mouse",
+            "price": "700",
+            "description": "Max DPI 6000",
+            "thumbnail": "https://dummyimage.com/250/000/555",
+            "stock": "9",
+            "id": 1
+        },
+        {
+            "title": "Headphones",
+            "price": "600",
+            "description": "Good sound quality",
+            "thumbnail": "https://dummyimage.com/250/000/fff",
+            "stock": "5",
+            "id": 3
+        }
+      ]
+    }
+  ]
